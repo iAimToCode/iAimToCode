@@ -1,8 +1,6 @@
 ## Hellooo~ Im new. :D 👋
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@lilsage_1264875/30-nites-of-code)  
-  ![@lilsage_1264875 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=lilsage_1264875)
+
 
 <!--
 **iAimToCode/iAimToCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
